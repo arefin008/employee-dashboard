@@ -1,0 +1,13 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "department": "IT",
+      "salary": 50000,
+      "status": "Active"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
